@@ -1,0 +1,8 @@
+.button {
+  width: 45px;
+  aspect-ratio: 1;
+  margin: 10px;
+}
+.value {
+  font-size: 20px;
+}
